@@ -2,7 +2,7 @@ Hi, i'm Evelyn ⋆ ˚｡⋆୨୧˚
 
 🎓 Student and passionate about technology<br/>
 🌐 Learning HTML, CSS, JavaScript for web development<br/>
- A frontend desing engineer<br/>
+🎨A frontend desing engineer<br/>
 💻 Exploring C++ for problem-solving and algorithms
 
 ## 🌐 Socials:
